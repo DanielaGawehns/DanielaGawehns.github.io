@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dementia Back in the heart of community"
+excerpt: "Nursing Home Project in Brabant/NL 1<br/><img src='/images/portfolioVossenberg.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Click [here](https://www.universiteitleiden.nl/en/research/research-projects/data-science-research-programme/data-science-research-programme-project-daniela-gawehns) to find out more about my role in the project "Dementia back in the heart of society".
