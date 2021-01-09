@@ -1,6 +1,6 @@
 ---
 title: "Computational Reproducibility - Reprohacks"
-excerpt: "Reprohacks are sandbox events to give participants the space to experiment with and learn about tools for computationally reproducible research. <br/><img src='/images/portfolioReprohack.png'>"
+excerpt: "Reprohacks are sandbox events to give participants the space to experiment with and learn about tools for computationally reproducible research. <br/><img src='/images/portfolioReprohackHorizontal.png'>"
 collection: portfolio
 ---
 
