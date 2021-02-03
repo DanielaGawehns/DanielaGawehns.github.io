@@ -4,5 +4,5 @@ excerpt: "Within this consortium project, an interdisciplinary team of researche
 collection: portfolio
 ---
 
-Click [here](https://www.universiteitleiden.nl/en/research/research-projects/data-science-research-programme/data-science-research-programme-project-daniela-gawehns) to find out more about my role in the project "Dementia back in the heart of society".
+Click [here](https://www.universiteitleiden.nl/en/research/research-projects/data-science-research-programme/data-science-research-programme-project-daniela-gawehns){:target="\blank"} to find out more about my role in the project "Dementia back in the heart of society".
 
