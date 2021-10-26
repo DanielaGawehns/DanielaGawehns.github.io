@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [here](/files/CVDanielaGawehnsBlog.pdf) (last update October 2021).
+You can download my CV [here](/files/CV_DanielaGawehns.pdf) (last update October 2021).
 
